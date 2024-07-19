@@ -28,10 +28,11 @@ Team Byte Crafters
 
 ✅Jupyter Notebook
 
+✅Altair Rapid Miner
 
 
 ## 🖥️Tech Stack
- To address the challenge of uncovering sleep and lifestyle patterns for stress management and better health, an advanced tech stack was utilized. Core technologies included Streamlit for the interactive application, and LLMs like Langchain, Mistral7B, and cTransformers for generating text responses. Python and Jupyter Notebook facilitated data analysis and EDA, while Scikit-Learn implemented machine learning algorithms for predictive modeling. This integrated tech stack enabled a user-friendly tool designed to enhance sleep health and manage stress through personalized insights and recommendations.
+ To address the challenge of uncovering sleep and lifestyle patterns for stress management and better health, an advanced tech stack was utilized. Core technologies included Streamlit for the interactive application, and LLMs like Langchain, Mistral7B, and cTransformers for generating text responses. ALTAIR RAPID MINER,Python,Jupyter Notebook facilitated data analysis and EDA, while Scikit-Learn implemented machine learning algorithms for predictive modeling. This integrated tech stack enabled a user-friendly tool designed to enhance sleep health and manage stress through personalized insights and recommendations.
 
 
 
@@ -53,25 +54,8 @@ Team Byte Crafters
 Use of Streamlit and LLM: The synergy of Streamlit and LLM allows seamless integration, providing an intuitive and efficient platform to build, deploy, and engage with the chatbot, bringing a personalized and responsive conversational experience to the users.
 
 
+##Youtube link:
 
 
-## 💡How We Built It
 
-✅Installation and Importing of libraries
-
-✅Understanding the Data
-
-✅Testing Different Machine Learning Models(XGBoost, CatBoost,KNNeighbors,Gradient Boost)and finding the best model out of it
-
-✅Save the model
-
-✅Developing User Interface with Streamlit
-
-✅Developing Llama 2 Chatbot
-
-## 🔍Web Interface
-
-![App Screenshot](https://github.com/Aishwarya-HM/BYTE_CRAFTERS_JITHACK/blob/main/Images/IntroImage.png)
-
-![App Screenshot](https://github.com/Aishwarya-HM/BYTE_CRAFTERS_JITHACK/blob/main/Images/PredictImage.png)
 
