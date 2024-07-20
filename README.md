@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/27100dd0-5704-4286-93f4-86c84e9614f2)![image](https://github.com/user-attachments/assets/2867f092-9376-4975-b8ed-bc03373ac737)
+
 ## Uncovering Sleep and Lifestyle Patterns for Stress Management and Better Health
 
 Team Byte Crafters
