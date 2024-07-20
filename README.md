@@ -6,7 +6,7 @@ Team Byte Crafters
 # Introduction 👋
 - Project Objective: The objective of our project is to investigate data analysis techniques, propose a model for uncovering sleep and lifestyle patterns, identify factors contributing to stress, and provide strategies for improved stress management and overall health.
 
-- Factors considered: Using diverse Machine learning techniques,Python Libraries like Scikit-learn ,numpy,pandas and Web Application using Streamlit, LLM(Langchain,cTransformers).
+- Factors considered: Using diverse Machine learning techniques,Python Libraries like Scikit-learn ,numpy,pandas and Web Application using Streamlit, LLM(Langchain,cTransformers) and ALTAIR RAPID MINER for Data Visualization and Analysis.
 
 - Expected Outcomes: Accurate modeling of sleep and lifestyle patterns to identify stress factors. Development of a real-time application providing insights and recommendations for better health management.
 
@@ -54,7 +54,13 @@ Team Byte Crafters
 Use of Streamlit and LLM: The synergy of Streamlit and LLM allows seamless integration, providing an intuitive and efficient platform to build, deploy, and engage with the chatbot, bringing a personalized and responsive conversational experience to the users.
 
 
+
+
 ##Youtube link:
+
+
+##PPT:
+
 
 
 
