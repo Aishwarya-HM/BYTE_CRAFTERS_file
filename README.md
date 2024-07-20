@@ -60,7 +60,7 @@ Use of Streamlit and LLM: The synergy of Streamlit and LLM allows seamless integ
 
 
 ##PPT:
-
+https://1drv.ms/p/c/2b136d079c6c9f0d/EfXbFGxc9GZEnzeouVhFq3MB3UWyEeFMYouIwmxchqMhxw?e=zOjeBa
 
 
 
