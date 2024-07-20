@@ -1,4 +1,4 @@
-
+![image](https://github.com/user-attachments/assets/27100dd0-5704-4286-93f4-86c84e9614f2)![image](https://github.com/user-attachments/assets/2867f092-9376-4975-b8ed-bc03373ac737)
 ## Uncovering Sleep and Lifestyle Patterns for Stress Management and Better Health
 
 Team Byte Crafters
@@ -53,7 +53,17 @@ Team Byte Crafters
 
 Use of Streamlit and LLM: The synergy of Streamlit and LLM allows seamless integration, providing an intuitive and efficient platform to build, deploy, and engage with the chatbot, bringing a personalized and responsive conversational experience to the users.
 
+## 📁Implementation Details/Dataset Description:
+1. Implementation Details:
+Collect, preprocess, and integrate sleep and lifestyle data from wearables and self-reports.
+Perform EDA using Python, Jupyter Notebook, and ALTAIR RAPID MINER, and build predictive models using Scikit-Learn, while generating personalized insights with LLMs.
+Develop a Streamlit application for interactive data input, analysis visualization, and recommendations.
 
+2. Dataset Usage:
+The Sleep Health and Lifestyle Dataset comprises 400 rows and 13 columns, covering a wide range of variables related to sleep and daily habits. It includes details such as gender, age, occupation, sleep duration, quality of sleep, physical activity level, stress levels, BMI category, blood pressure, heart rate, daily steps, and the presence or absence of sleep disorders.
+
+🔗Kaggle Link:
+Sleep Health and Lifestyle Dataset (kaggle.com)
 
 
 ##Youtube link:
